@@ -1,4 +1,4 @@
-# 
+# Open Source AI Fitness Trainer Assistant workflow. Featuring cloud-AI and data-visualization — optimized for maximum performance.
 
 
 
